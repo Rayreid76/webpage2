@@ -61,4 +61,3 @@
 /home/raymondreid/WebDev/Dotnet/frontend/obj/Debug/netcoreapp2.2/frontend.dll
 /home/raymondreid/WebDev/Dotnet/frontend/obj/Debug/netcoreapp2.2/frontend.pdb
 /home/raymondreid/WebDev/Dotnet/frontend/obj/Debug/netcoreapp2.2/frontend.csproj.CopyComplete
-/home/raymondreid/WebDev/Dotnet/frontend/obj/Debug/netcoreapp2.2/Razor/Views/Pass/Password.g.cshtml.cs

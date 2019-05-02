@@ -2789,11 +2789,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Pass/Password.cshtml",
-      "TargetPath": "Views/Pass/Password.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views/Shared/Error.cshtml",
       "TargetPath": "Views/Shared/Error.cshtml",
       "FileKind": "mvc"
